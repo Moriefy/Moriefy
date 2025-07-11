@@ -1,10 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=你好+👋+欢迎来到我的GitHub" alt="动态问候语">
-</div>
-
-
----
-
 ## 🧑‍💻 关于我
 
 我是 Moriefy，一名对技术充满热情的探索者。目前正在学习和成长中，喜欢尝试各种有趣的技术和工具。
@@ -46,7 +39,6 @@
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Moriefy&show_icons=true&theme=radical&count_private=true" alt="GitHub统计">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Moriefy&theme=radical" alt="连续贡献">
 </div>
 
 <!-- 编程语言使用情况 -->
@@ -54,16 +46,6 @@
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moriefy&layout=compact&theme=radical" alt="常用语言">
 </div>
-
-
-## ✨ 每日名言
-
-<!-- 每日名言API -->
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="每日名言">
-</div>
-
 
 ---
 
